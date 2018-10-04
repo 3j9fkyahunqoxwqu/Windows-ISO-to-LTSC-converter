@@ -1,6 +1,6 @@
 # Windows ISO to LTSC converter
 
-Convert any ISO to LTSC (EVAL).
+Convert any ISO to LTSC (EVAL) and add your desired language. 
 
 
 ## Quick Howto
@@ -13,5 +13,6 @@ Convert any ISO to LTSC (EVAL).
 
 ## Notice for x86 Windows users
 
+The following files are only needed for x86 users:
 * [17763.1 Ent. Vol. LTSC Eval en x86](https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_CLIENT_LTSC_EVAL_x86FRE_en-us.iso)
 * [SVF-files](https://pcorakel.stackstorage.com/s/MLMY3IxZP7ycuhH)
